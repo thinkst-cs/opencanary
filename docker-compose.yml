@@ -17,6 +17,8 @@ x-common: &common
     # - "69:69"
     # HTTP
     - "80:80"
+    # HTTPS
+    - "443:443"
     # NTP
     # - "123:123"
     # SNMP
